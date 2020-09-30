@@ -3,10 +3,10 @@
 #############################
 
 # The title that appears on the tab
-title: Andy Zhang's Gallery
+title: Mauro Fumagalli, la densità del nero
 
 # The title on the web page
-full_name: Andy Zhang
+full_name: Mauro Fumagalli
 
 # The type of layout
 # Options: ROWS, SQUARES, COLUMNS
@@ -39,13 +39,13 @@ instagram: andy.fuji
 name: Gallery
 
 # Short description (goes below the title; it will also be used in the RSS feed)
-description: Photography Portfolio
+description: Mauro Fumagalli, Portfolio
 
 # Your name, as you want it to appear underneath each post and in the footer
-author: Andy Zhang
+author: Mauro Fumagalli
 
 # Your email if you want it to be linked on the contact page
-author_email: andzhng@gmail.com
+author_email: mauro.fumagalli@gmail.com
 
 # The directory for category index pages. Change it to something else if
 # for example you want links like /categories/category1 instead of /category1
